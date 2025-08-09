@@ -80,5 +80,5 @@ Importação do dataset
 
 # **📤 Exportação**
 
- **✨ Projeto desenvolvido** https://imersao-dadosalura.streamlit.app/
+ **✨ Projeto desenvolvido no Streamlit** https://imersao-dadosalura.streamlit.app/
 
