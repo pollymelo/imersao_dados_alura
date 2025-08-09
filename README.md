@@ -20,7 +20,7 @@ O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicand
 
 # 🛠️ **Tecnologias e Ferramentas**
 
-💻 Ferramenta	📌 Descrição
+**💻 Ferramenta	📌 Descrição**
 
 🐍 **Python**	Linguagem base utilizada em todas as etapas do projeto.
 
@@ -30,27 +30,36 @@ O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicand
 
 📈 **Matplotlib**	Criação de gráficos e visualizações personalizadas.
 
+🎨 **Seaborn**	Biblioteca de visualização de alto nível para gráficos estatísticos mais atraentes e informativos.
+
+📊 **Plotly**	Ferramenta poderosa para visualizações interativas e dashboards dinâmicos.
+
 
 # 📚 **Conteúdo da Imersão**
 
-**Aula 1** – 🔍 Exploração de Dados com Pandas
+**Aula 1 – 🔍 Exploração de Dados com Pandas**
 Importação do dataset
 
-Primeiras análises da estrutura e tipos de dados
+- Primeiras análises da estrutura e tipos de dados
 
-Estatísticas descritivas iniciais
+- Estatísticas descritivas iniciais
 
-**Aula 2** – 🧹 Limpeza e Preparação
+**Aula 2 – 🧹 Limpeza e Preparação**
 
-Tratamento de valores nulos
+- Tratamento de valores nulos
 
-Ajuste de tipos de dados
+- Ajuste de tipos de dados
 
-**Aula 3** – 📊 Visualização e Storytelling
+**Aula 3 – 📊 Visualização e Storytelling**
+
+- Histogramas, gráficos de barras e boxplot com Matplotlib e Seaborn
+
+- Criação de gráficos interativos com Plotly para explorar os dados dinamicamente
+
+- **Desafio:** Criação de um gráfico de linhas com Plotly
 
 
-
-**Aula 4** – 📊➡️📲 Dashboard Interativo
+**Aula 4 – 📊➡️📲 Dashboard Interativo**
 
 
 
