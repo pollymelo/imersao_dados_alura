@@ -34,6 +34,8 @@ O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicand
 
 📊 **Plotly**	Ferramenta poderosa para visualizações interativas e dashboards dinâmicos.
 
+⚡ **Streamlit**	Framework para criação de aplicações web e dashboards interativos de forma rápida e simples.
+
 
 # 📚 **Conteúdo da Imersão**
 
