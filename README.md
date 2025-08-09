@@ -1,11 +1,11 @@
-📊 **Imersão de Dados - Alura**
+# 📊 **Imersão de Dados - Alura**
 
 Repositório criado para documentar minha jornada na Imersão de Dados da Alura, explorando Python e suas bibliotecas mais utilizadas no mercado para análise de dados.
 
 
-🚀 **Visão Geral do Projeto**
+# 🚀 **Visão Geral do Projeto**
 
-Durante esta imersão, desenvolvi um projeto prático do zero, aplicando técnicas de:
+<p>Durante esta imersão, desenvolvi um projeto prático do zero, aplicando técnicas de:
 
 ✅ Manipulação de dados
 
@@ -13,12 +13,12 @@ Durante esta imersão, desenvolvi um projeto prático do zero, aplicando técnic
 
 ✅ Visualização e storytelling
 
-✅ Criação de um dashboard interativo
+✅ Criação de um dashboard interativo</p>
 
 O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicando ferramentas robustas e práticas utilizadas no dia a dia de análise de dados.
 
 
-🛠️ **Tecnologias e Ferramentas**
+# 🛠️ **Tecnologias e Ferramentas**
 
 💻 Ferramenta	📌 Descrição
 
@@ -31,7 +31,7 @@ O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicand
 📈 **Matplotlib**	Criação de gráficos e visualizações personalizadas.
 
 
-📚 **Conteúdo da Imersão**
+# 📚 **Conteúdo da Imersão**
 
 **Aula 1** – 🔍 Exploração de Dados com Pandas
 Importação do dataset
