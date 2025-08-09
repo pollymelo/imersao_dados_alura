@@ -40,26 +40,39 @@ O objetivo foi extrair insights reais a partir de um conjunto de dados, aplicand
 **Aula 1 – 🔍 Exploração de Dados com Pandas**
 Importação do dataset
 
-- Primeiras análises da estrutura e tipos de dados
+- Aprender como carregar arquivos CSV no Google Colab de forma prática.
 
-- Estatísticas descritivas iniciais
+- Utilizar a biblioteca Pandas para leitura e visualização inicial de dados.
+
+- Manipular dados reais com os principais comandos de análise.
 
 **Aula 2 – 🧹 Limpeza e Preparação**
 
-- Tratamento de valores nulos
+- Aprender técnicas para renomear colunas de maneira clara e organizada.
 
-- Ajuste de tipos de dados
+- Identificar e tratar dados faltantes em bases reais.
+
+- Aplicar filtros simples para selecionar informações relevantes.
+
+- Gerar estatísticas descritivas que apoiam a análise e tomada de decisão.
 
 **Aula 3 – 📊 Visualização e Storytelling**
 
-- Histogramas, gráficos de barras e boxplot com Matplotlib e Seaborn
+- Criar gráficos estatísticos para analisar os dados de forma visual.
 
-- Criação de gráficos interativos com Plotly para explorar os dados dinamicamente
+- Construir histogramas para observar a distribuição das informações.
 
-- **Desafio:** Criação de um gráfico de linhas com Plotly
+- Utilizar bibliotecas de Python que ajudam na criação de gráficos.
 
+- Praticar a visualização de dados para apoiar a análise e tomada de decisões.
 
 **Aula 4 – 📊➡️📲 Dashboard Interativo**
 
+- Conhecer a biblioteca Streamlit para criar dashboards interativos.
 
+- Desenvolver interfaces simples para visualização de dados.
+
+- Aplicar filtros dinâmicos para explorar os dados em tempo real.
+
+- Gerar gráficos direto no dashboard para facilitar a análise.
 
