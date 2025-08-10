@@ -78,7 +78,8 @@ Importação do dataset
 
 - Gerar gráficos direto no dashboard para facilitar a análise.
 
-# **📤 Exportação**
+# 📁 Projeto desenvolvido com Streamlit 
 
- **✨ Projeto desenvolvido no Streamlit** https://imersao-dadosalura.streamlit.app/
+<a href="https://imersao-dadosalura.streamlit.app/">🔗 Acesse o Projeto</a>
+
 
